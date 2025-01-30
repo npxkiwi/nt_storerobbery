@@ -12,4 +12,3 @@ Blev også brugt inde på min egen server!
 
 https://streamable.com/nt0c6z <- Showcase
 
-.md
