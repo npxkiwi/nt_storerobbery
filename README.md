@@ -6,9 +6,6 @@ Blev også brugt inde på min egen server!
 * peuren_minigames
 * L4-Notify
 * ox_lib
-* ox_target
-* ox_inventory
-* qbcore
 
 https://streamable.com/nt0c6z <- Showcase
 
